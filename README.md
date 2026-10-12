@@ -15,12 +15,9 @@
 
 ## 学習記録
 
-[CTF学習ノート（PDF）](docs/CTF_Learning_Notes.pdf)
-
-PDFは一般的な技術と調査手順を整理したものです。大会の問題文・画像・配布ファイル、具体的な解答、Flag、問題固有の入力値や接続先は収録していません。コード例は自作の練習用です。
+[CTF学習ノート（PDF）（個人用のため公開停止）](docs/CTF_Learning_Notes.pdf)
 
 ## フォルダ構成
 
 - `README.md`：参加結果と学習事項
 - `docs/CTF_Learning_Notes.pdf`：技術ノート
-- `PUBLICATION_CHECKLIST.md`：規約確認と公開範囲の確認
